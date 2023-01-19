@@ -1,2 +1,3 @@
-- @redactedcartel
-
+- co-founder @redactedcartel
+- protocol-dev @berachain
+- tech/policy advisor @y2kfinance
