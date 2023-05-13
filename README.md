@@ -1,3 +1,3 @@
 - co-founder @redactedcartel
-- protocol-dev @berachain
+- deFI @berachain
 - tech/policy advisor @y2kfinance
