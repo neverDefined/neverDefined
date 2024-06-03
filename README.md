@@ -1,3 +1,2 @@
 - co-founder @redactedcartel
-- deFI @berachain
-- tech/policy advisor @y2kfinance
+- Build-a-Bera Incubator @berachain
