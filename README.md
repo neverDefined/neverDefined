@@ -1,2 +1,2 @@
-- co-founder @redactedcartel
+- co-founder @dinero_xyz
 - Build-a-Bera Incubator @berachain
