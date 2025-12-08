@@ -1,2 +1,10 @@
-build + research: Layer 1s, Consesus Protocols, DeFi, zkBitcoin, testing libs (bitcoin + evm)
-ex: redacted (aq by plume), buidabera 
+Research and development focus/fkwith:
+- zkBitcoin
+- Testing libraries (Bitcoin & EVM)
+- Layer 1 BFT blockchains
+- Consensus protocols
+- DeFi
+
+founder xp:
+- redacted (acquired by Plume)
+- buidabera
